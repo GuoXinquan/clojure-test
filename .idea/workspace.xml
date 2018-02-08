@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ea8189-1a50-410c-95ca-fb034b920600" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_http_3_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_tuple_0_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clojure_complete_0_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_h2database_h2_1_4_193.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_zaxxer_HikariCP_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__enlive_1_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__hikari_cp_1_7_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__http_kit_2_3_0_alpha2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_nio_4_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_java_jdbc_0_3_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_nrepl_0_2_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_jsoup_jsoup_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_tobereplaced_lettercase_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__potemkin_0_4_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__prismatic_schema_1_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__riddley_0_1_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__slingshot_0_12_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/intro.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fetch-jpg.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/core.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/fetch/fetch_csdn/fetch_csdn_doc.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/fetch/fetch_dbmz.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/fetch/fetch_image.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/fetch/fetch_meizitu.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fetch_jpg/h2/h2_test.clj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/fetch_jpg/core_test.clj" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,11 +122,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="361" />
-    <option name="y" value="120" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="589" />
     <option name="width" value="1689" />
-    <option name="height" value="1000" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -258,7 +210,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="last_opened_file_path" value="D:/Clojure/clojure-basic-web-app-point" />
   </component>
-  <component name="ReplState" timestamp="1518110172776">{:repl-history {:ide [], :local [{:command &quot;（+ 1 1）&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(+ 1 1)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(copy-uri-to-file file \&quot;https://ww4.sinaimg.cn/large/0060lm7Tly1fnzlzmqo5mj30dw0iital.jpg\&quot;)&quot;, :offset 91, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-jpg-uri 1)&quot;, :offset 17, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;htm_data/16/1802/2949853.html\&quot;)&quot;, :offset 45, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;/htm_data/16/1802/2949853.html\&quot;)&quot;, :offset 46, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;htm_data/16/1802/2942381.html\&quot;)&quot;, :offset 45, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(url 5577)&quot;, :offset 10, :ns &quot;fetch-jpg.fetch.fetch-meizitu&quot;} {:command &quot;(fetch-img 5577)&quot;, :offset 16, :ns &quot;fetch-jpg.fetch.fetch-meizitu&quot;} {:command &quot;(map fetch-jpg-uri (range 1 1000))&quot;, :offset 34, :ns &quot;fetch-jpg.fetch.fetch-dbmz&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1518110574150">{:repl-history {:ide [], :local [{:command &quot;（+ 1 1）&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(+ 1 1)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(copy-uri-to-file file \&quot;https://ww4.sinaimg.cn/large/0060lm7Tly1fnzlzmqo5mj30dw0iital.jpg\&quot;)&quot;, :offset 91, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-jpg-uri 1)&quot;, :offset 17, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;htm_data/16/1802/2949853.html\&quot;)&quot;, :offset 45, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;/htm_data/16/1802/2949853.html\&quot;)&quot;, :offset 46, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(fetch-price \&quot;htm_data/16/1802/2942381.html\&quot;)&quot;, :offset 45, :ns &quot;fetch-jpg.fetch.fetch-image&quot;} {:command &quot;(url 5577)&quot;, :offset 10, :ns &quot;fetch-jpg.fetch.fetch-meizitu&quot;} {:command &quot;(fetch-img 5577)&quot;, :offset 16, :ns &quot;fetch-jpg.fetch.fetch-meizitu&quot;} {:command &quot;(map fetch-jpg-uri (range 1 1000))&quot;, :offset 34, :ns &quot;fetch-jpg.fetch.fetch-dbmz&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -397,15 +349,15 @@
       <workItem from="1517497358313" duration="2641000" />
       <workItem from="1517500039507" duration="8537000" />
       <workItem from="1517508621856" duration="1635000" />
-      <workItem from="1518100359754" duration="5483000" />
+      <workItem from="1518100359754" duration="5884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26782000" />
+    <option name="totallyTimeSpent" value="27183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="589" y="0" width="1689" height="732" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -414,14 +366,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21566524" sideWeight="0.48688713" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17006437" sideWeight="0.5039909" order="4" side_tool="true" content_ui="tabs" x="415" y="76" width="1090" height="877" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19628483" sideWeight="0.5039909" order="4" side_tool="true" content_ui="tabs" x="415" y="76" width="1090" height="877" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.4960091" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5151515" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20061919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.4914481" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
